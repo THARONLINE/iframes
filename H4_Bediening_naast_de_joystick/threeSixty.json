@@ -1,0 +1,27 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "5YH4UCZnTz6",
+  "title": "H4_Bediening_naast_de_joystick",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6MMIN3piijn",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1284,
+    "height": 782
+  },
+  "stage": {
+    "width": 1264,
+    "height": 711
+  }
+}
